@@ -22,7 +22,4 @@ The dataset is loaded and inspected using **pandas**, and visualizations are cre
 - Seaborn
 - VS Code (as IDE)
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
+
